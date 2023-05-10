@@ -8,8 +8,6 @@
  ![](https://i.imgur.com/1b1Zsn0.png)
 **作業系統:** WSL(Ubuntu)on Windows 
 
-**連絡電話:** 0963695191
-
 ### 2.
 **測資:**
 * 3-12格(每格皆有癌細胞)
