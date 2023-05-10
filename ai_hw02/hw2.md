@@ -8,6 +8,10 @@
  ![](https://i.imgur.com/1b1Zsn0.png)
 **作業系統:** WSL(Ubuntu)on Windows 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 16c061e3aa649ed8568f58ebeb9d67eab18dd843
 ### 2.
 **測資:**
 * 3-12格(每格皆有癌細胞)
