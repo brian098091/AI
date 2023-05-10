@@ -1,0 +1,3 @@
+Row # : 1
+7 points
+Total rum time = 1.8420963287353516 second
